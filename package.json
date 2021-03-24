@@ -1,0 +1,23 @@
+{
+  "name": "apirap",
+  "version": "1.0.0",
+  "description": "rap api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgbrock/apiRap.git"
+  },
+  "author": "Logan Brock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lgbrock/apiRap/issues"
+  },
+  "homepage": "https://github.com/lgbrock/apiRap#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
